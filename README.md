@@ -64,12 +64,15 @@ OUTPUT: values provided by the c++ program to the simulator
 ## References
 
 The Udacity reference sheet for all of the EXF equations was used:
+
 https://d17h27t6h515a5.cloudfront.net/topher/2017/February/58b461d5_sensor-fusion-ekf-reference/sensor-fusion-ekf-reference.pdf
 
 Some members from the previous term with the old simulator was referenced for performance benchmarking:
 
 https://github.com/jeremy-shannon/CarND-Extended-Kalman-Filter-Project
+
 https://github.com/NikolasEnt/Extended-Kalman-Filter
+
 https://github.com/mvirgo/Extended-Kalman-Filter
 
 
